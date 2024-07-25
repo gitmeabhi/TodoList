@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.listItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.btns{
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+  width: 100px;
+}
